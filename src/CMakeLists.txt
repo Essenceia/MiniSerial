@@ -1,0 +1,1 @@
+set(${SRC_LIST} main.c)
