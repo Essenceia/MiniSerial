@@ -1,1 +1,1 @@
-set(${SRC_LIST} main.c)
+set(${SRC_LIST} main.cpp)
